@@ -1,6 +1,7 @@
 [LAB1](https://github.com/Nandith0204/AIML-BATCH-17/blob/main/Lab_01%20(1).ipynb)
 [LAB2](https://github.com/Nandith0204/AIML-BATCH-17/blob/main/Lab_02%20(1).ipynb)
 [LAB3](https://github.com/Nandith0204/AIML-BATCH-17/blob/main/LAB%203.ipynb)
+[LAB4](https://github.com/Nandith0204/AIML-BATCH-17/blob/main/lab4.ipynb)
 [LAB5](https://github.com/Nandith0204/AIML-BATCH-17/blob/main/LAB5.ipynb)
 
 [LAB7](https://github.com/Nandith0204/AIML-BATCH-17/blob/main/LAB%207)
